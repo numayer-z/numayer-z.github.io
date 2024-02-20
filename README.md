@@ -1,1 +1,0 @@
-# numayer-z.github.io
