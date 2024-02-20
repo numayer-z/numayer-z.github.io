@@ -1,0 +1,75 @@
+baseurl = "https://numayer-z.github.io"
+title = "Numayer Zaman"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+# disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Numayer Zaman"
+  info = "Lecturer, Researcher"
+  description = "Portfolio of Numayer Zaman"
+  keywords = "blog,Researcher,personal"
+  avatarurl = "images/numayer.jpg"
+  #gravatar = "john.doe@example.com"
+
+  since = 2023
+
+  enableTwemoji = true
+  # Specify light/dark colorscheme
+  # Supported values:
+  # "auto" (use preference set by browser)
+  # "dark" (dark background, light foreground)
+  # "light" (light background, dark foreground) (default)
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/numayer-z/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/numayerzaman/"
+[[params.social]]
+  name = "Gmail"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 3
+  url = "mailto:numayer02@gmail.com"
+
+# Menu links
+[[menu.main]]
+  name = "Posts"
+  weight = 4
+  url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url  = "projects/"
+[[menu.main]]
+  name = "Publications"
+  weight = 2
+  url  = "publications/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
