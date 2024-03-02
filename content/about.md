@@ -3,7 +3,7 @@ title = "About"
 description = "Opportunistic Electrical Engineer enthusiasm for learning, teaching, and research. "
 date = "2024-02-29"
 aliases = ["about-me","Career"]
-author = "Numayer Zaman"
+author = "Numayer A Zaman"
 +++
 
 Hello this is Numayer.
