@@ -3,8 +3,12 @@ title = "Projects"
 slug = "projects"
 +++
 
-*** Water level indicator using Arduino
-*** Traffic control management system for a double pathway (Junction)
-*** Underground cable fault detection using Arduino UNO
-*** Static Latch and Low Power Flip-flop using Cadence
-*** IR Remote Controlled TRIAC Dimmer Circuit etc.
+1. Water level indicator using Arduino
+
+2. Traffic control management system for a double pathway (Junction)
+
+3. Underground cable fault detection using Arduino UNO
+
+4. Static Latch and Low Power Flip-flop using Cadence
+
+5. IR Remote Controlled TRIAC Dimmer Circuit etc.

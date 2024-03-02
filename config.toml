@@ -47,7 +47,7 @@ style = "github-dark"
   url = "https://github.com/numayer-z/"
 [[params.social]]
   name = "Profile"
-  icon = "fa-brands fa-links fa-2x"
+  icon = "fa-brands fa-earth fa-2x"
   weight = 1
   url = "https://profile.diu.ac/numayerandalibzaman"
 [[params.social]]
@@ -63,6 +63,10 @@ style = "github-dark"
 
 
 # Menu links
+[[menu.main]]
+  name = "CV"
+  weight = 5
+  url  = "https://drive.google.com/file/d/1JG2Eux8cp5E52pHxQg1yrpKwQYCpdPt3/view?usp=sharing/"
 [[menu.main]]
   name = "Posts"
   weight = 4
