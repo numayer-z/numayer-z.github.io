@@ -1,5 +1,5 @@
 baseurl = "https://numayer-z.github.io"
-title = "Numayer Zaman"
+title = "Numayer Andalib Zaman"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -12,7 +12,7 @@ paginate = 20
 style = "github-dark"
 
 [params]
-  author = "Numayer Zaman"
+  author = "Numayer A Zaman"
   info = "Lecturer, Researcher"
   description = "Portfolio of Numayer Zaman"
   keywords = "blog,Researcher,personal"
@@ -46,6 +46,11 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/numayer-z/"
 [[params.social]]
+  name = "Profile"
+  icon = "fa-brands fa-links fa-2x"
+  weight = 1
+  url = "https://profile.diu.ac/numayerandalibzaman"
+[[params.social]]
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
@@ -55,6 +60,7 @@ style = "github-dark"
   icon = "fa-solid fa-envelope fa-2x"
   weight = 3
   url = "mailto:numayer02@gmail.com"
+
 
 # Menu links
 [[menu.main]]
