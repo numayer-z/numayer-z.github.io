@@ -1,16 +1,25 @@
 +++
 title = "About"
-description = "Opportunistic Electrical Engineer enthusiasm for learning, teaching, and research. "
-date = "2024-02-29"
-aliases = ["about-me","Career"]
-author = "Numayer Zaman"
+description = "Hugo, the world's fastest framework for building websites"
+date = "2019-02-28"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Hugo Authors"
 +++
 
-Hello this is Numayer.
-I've graduated from Ahsanullah University of Science and Technology, Bangladesh completing B.Sc degree in Electrical and Electronic Engineering with a first class result and a Dean's Honor Award in December, 2022.
+Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-I have been connected with research at AUST since my graduation and working as a part-time Research Assistant. I am employed as a full-time lecturer at Dhaka International University, Bangladesh. Teaching area: Electrical Circuits, Electronics II, Electrical Machines I, Electricity and Magnetism.
+Hugo makes use of a variety of open source projects including:
 
-My research interests include but not limited to Optics and photonic applicatios, VLSI, Optical sensors, Nano-electronics, Biomedical technology etc.
+* https://github.com/yuin/goldmark
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
 
-I like to explore places, read books, watch movies and learn languages in my leisure time.
+Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+
+Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
