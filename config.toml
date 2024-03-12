@@ -47,7 +47,7 @@ style = "github-dark"
   url = "https://github.com/numayer-z/"
 [[params.social]]
   name = "Profile"
-  icon = "fa-brands fa-earth fa-2x"
+  icon = "fa-brands fa-website fa-2x"
   weight = 1
   url = "https://profile.diu.ac/numayerandalibzaman"
 [[params.social]]
