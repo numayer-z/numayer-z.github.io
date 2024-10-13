@@ -6,7 +6,7 @@ aliases = ["about-me","Career"]
 author = "Numayer A Zaman"
 +++
 
-Hello this is Numayer.
+Hello this is Numayer Zaman.
 I've graduated from [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/), Bangladesh completing B.Sc degree in Electrical and Electronic Engineering with a first class result and a Dean's Honor Award in December, 2022.
 
 I have been connected with research at AUST since my graduation and working as a part-time Research Assistant. I am employed as a full-time lecturer at [Dhaka International University (DIU)](https://diu.ac/), Bangladesh. Teaching area: Electrical Circuits, Electronics II, Electrical Machines I, Electricity and Magnetism.
