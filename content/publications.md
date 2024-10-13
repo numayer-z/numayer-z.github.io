@@ -11,3 +11,8 @@ Journals:
 2. Impact of Tube Diameter and Dielectric Constant on the Performance of CNTFET-Based 8T SRAM Cells, 2024, Microelectronic Engineering
 
 > This paper is still under review. Stay connected to know the update!
+
+3. Simulation analysis of a highly sensitive biosensor based on a 1D
+photonic crystal for early detection of cancer cells
+
+> This paper is still under review. Stay connected to know the update!

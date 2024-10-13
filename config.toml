@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
   author = "Numayer A Zaman"
-  info = "MS Student, Researcher"
+  info = "MS Student, Erasmus Mundus Scholar 24-26"
   description = "Portfolio of Numayer A Zaman"
   keywords = "blog,Researcher,personal"
   avatarurl = "images/numayer.jpg"
@@ -47,7 +47,7 @@ style = "github-dark"
   url = "https://github.com/numayer-z/"
 [[params.social]]
   name = "Profile"
-  icon = "fa-brands fa-website fa-2x"
+  icon = "fa-brands fa-link fa-2x"
   weight = 1
   url = "https://profile.diu.ac/numayerandalibzaman"
 [[params.social]]
@@ -66,7 +66,7 @@ style = "github-dark"
 [[menu.main]]
   name = "CV"
   weight = 5
-  url  = "documents/1_CV_MSc_Numayer.pdf"
+  url  = "documents/1_CV_Numayer.pdf"
 [[menu.main]]
   name = "Posts"
   weight = 4
