@@ -1,5 +1,5 @@
 baseurl = "https://numayer-z.github.io"
-title = "Numayer Andalib Zaman"
+title = "Numayer A Zaman"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -13,13 +13,13 @@ style = "github-dark"
 
 [params]
   author = "Numayer A Zaman"
-  info = "MS Student, Erasmus Mundus Scholar 24-26"
+  info = "Engineer, Erasmus Mundus Scholar 24-26, Microwave Electronics and Photonics"
   description = "Portfolio of Numayer A Zaman"
   keywords = "blog,Researcher,personal"
   avatarurl = "images/numayer.jpg"
   #gravatar = "john.doe@example.com"
 
-  since = 2023
+  since = 2024
 
   enableTwemoji = true
   # Specify light/dark colorscheme
@@ -59,7 +59,7 @@ style = "github-dark"
   name = "Gmail"
   icon = "fa-solid fa-envelope fa-2x"
   weight = 3
-  url = "mailto:numayer02@gmail.com"
+  url = "mailto:numayer.zaman@outlook.com"
 
 
 # Menu links

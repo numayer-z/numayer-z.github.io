@@ -4,15 +4,10 @@ slug = "publications"
 +++
 
 Journals:
-1. [A high-performance biosensor design for waterborne bacteria detection based on one-dimensional photonic crystal, 2023, Physica Scripta](https://iopscience.iop.org/article/10.1088/1402-4896/ace5f5)
+1. [Detection of tuberculosis in blood samples using one-dimensional photonic crystal, 2025, Optical and Quantum Electronics] (https://link.springer.com/article/10.1007/s11082-025-08347-1)
 
-> An optical biosensor has been designed for detecting many harmful waterborne bacteria which can cause disaster among the humanknd! Transfer matrix method has been used here to find the transmission spectra and the sensitivity of the sensor. Si and SiO2 materials are taken into account for this sensor which are widely used.
+2. [Simulation Analysis of a Highly Sensitive Biosensor for Early Detection of Cancer Cells Based on a 1D Photonic Crystal, 2025, ECS Journal of Solid State Science and Technology] (https://iopscience.iop.org/article/10.1149/2162-8777/adb5be/)
 
-2. Impact of Tube Diameter and Dielectric Constant on the Performance of CNTFET-Based 8T SRAM Cells, 2024, Microelectronic Engineering
+3. [A high-performance biosensor design for waterborne bacteria detection based on one dimensional photonic crystal, 2023, Physica Scripta] (https://iopscience.iop.org/article/10.1088/1402-4896/ace5f5/meta)
 
-> This paper is still under review. Stay connected to know the update!
-
-3. Simulation analysis of a highly sensitive biosensor based on a 1D
-photonic crystal for early detection of cancer cells
-
-> This paper is still under review. Stay connected to know the update!
+4. Exploring the Impact of Dielectric and Geometric Modifications on CNTFET-Based SRAM Cells for Low- Power, High-Speed Nanoelectronics; Under review.
